@@ -1,0 +1,13 @@
+1.https://fidelislee.tistory.com/entry/Pycharm%EC%97%90%EC%84%9C-Github%EC%97%90-Repository%EC%83%9D%EC%84%B1-%EC%86%8C%EC%8A%A4-%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0
+
+위 참조
+
+2. 간단히 풀어서 설명하면 (토큰 유효기간이 남았는지 모르겠지만 인증 필요 없었음 ----- 20230815)
+
+  1. Import Version Control --> Create Git Repository 선택
+
+  2. 생성할 Repository 대상 폴더를 선택하고 VCS 에서 commit
+
+  3. commit 후 VCS 메뉴에서  Import Version Control --> Share Project on Github 선택
+
+  4. VCS 메뉴의 Git에서 push 하면 끝...
